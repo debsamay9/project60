@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    
+}
+#cricket{
+    height: 800px;
+    width:100%;
+        
+    background-color: aqua;
+}
+#football{
+    height: 800px;
+    width:100%;
+        
+    background-color:yellowgreen;
+}
